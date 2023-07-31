@@ -1,1 +1,1 @@
-import { add substract
+import { add substract} from "./math.js";
